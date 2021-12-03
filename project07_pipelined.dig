@@ -2318,7 +2318,7 @@
           <string>CLK</string>
         </entry>
       </elementAttributes>
-      <pos x="1160" y="420"/>
+      <pos x="1080" y="480"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3967,6 +3967,11 @@
       </elementAttributes>
       <pos x="3040" y="880"/>
     </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes/>
+      <pos x="1100" y="480"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -4334,6 +4339,10 @@
       <p2 x="3000" y="160"/>
     </wire>
     <wire>
+      <p1 x="920" y="160"/>
+      <p2 x="980" y="160"/>
+    </wire>
+    <wire>
       <p1 x="180" y="1440"/>
       <p2 x="220" y="1440"/>
     </wire>
@@ -4350,16 +4359,16 @@
       <p2 x="1360" y="420"/>
     </wire>
     <wire>
-      <p1 x="1160" y="420"/>
-      <p2 x="1180" y="420"/>
-    </wire>
-    <wire>
       <p1 x="1500" y="420"/>
       <p2 x="1520" y="420"/>
     </wire>
     <wire>
       <p1 x="1640" y="420"/>
       <p2 x="1660" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="1160" y="420"/>
+      <p2 x="1180" y="420"/>
     </wire>
     <wire>
       <p1 x="180" y="1060"/>
@@ -4514,7 +4523,7 @@
       <p2 x="2420" y="180"/>
     </wire>
     <wire>
-      <p1 x="940" y="180"/>
+      <p1 x="980" y="180"/>
       <p2 x="1000" y="180"/>
     </wire>
     <wire>
@@ -4804,6 +4813,14 @@
     <wire>
       <p1 x="1320" y="480"/>
       <p2 x="1360" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="1080" y="480"/>
+      <p2 x="1100" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="1140" y="480"/>
+      <p2 x="1160" y="480"/>
     </wire>
     <wire>
       <p1 x="180" y="1120"/>
@@ -5096,6 +5113,10 @@
     <wire>
       <p1 x="1160" y="40"/>
       <p2 x="1160" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="1160" y="420"/>
+      <p2 x="1160" y="480"/>
     </wire>
     <wire>
       <p1 x="1800" y="820"/>
@@ -5412,6 +5433,10 @@
     <wire>
       <p1 x="1360" y="20"/>
       <p2 x="1360" y="140"/>
+    </wire>
+    <wire>
+      <p1 x="980" y="160"/>
+      <p2 x="980" y="180"/>
     </wire>
     <wire>
       <p1 x="980" y="380"/>
